@@ -1,0 +1,19 @@
+.input-box{
+padding:6px;
+background-color: white;
+width: 20%;
+margin: auto;
+}
+.input-box input{
+    border: none;
+    width: 90%;
+}
+.input-box span{
+
+    font-weight: bold;
+  font-size: 1.3rem;
+  float: right;
+  
+
+    border-radius: 50%;
+}
